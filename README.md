@@ -20,7 +20,7 @@ To clone the repository and clone the Open Exoplanet Catalogye submodule followi
 
 
 
-Example Plots
+
 --------------
 ![Mass vs semi-major axis](https://raw.github.com/hannorein/oec_plots/master/plot_mass_vs_semimajoraxis_discovery.svg.png "Plot")
 ![Architecture](https://raw.github.com/hannorein/oec_plots/master/plot_architecture.svg.png "Plot")
